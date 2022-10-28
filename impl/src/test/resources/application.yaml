@@ -1,0 +1,8 @@
+cg:
+  config:
+    anonymizer:
+      properties:
+        sensitive-keys: s
+quarkus:
+  native:
+    builder-image: abcd
